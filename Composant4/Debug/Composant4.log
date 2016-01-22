@@ -1,0 +1,19 @@
+﻿La génération a démarré 22/01/2016 13:19:09.
+     1>Projet "\\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Composant4\Composant4.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I\\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\interfaces /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D COMPOSANT4_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Composant4.cpp
+         Composant4.cpp
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I\\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\interfaces /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D COMPOSANT4_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Debug\Composant4.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Debug\Composant4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Debug\Composant4.lib" /MACHINE:X86 /DLL Debug\Composant4.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+         \\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Debug\Composant3.lib
+            Création de la bibliothèque \\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Debug\Composant4.lib et de l'objet \\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Debug\Composant4.exp
+         Composant4.vcxproj -> \\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Debug\Composant4.dll
+     1>Génération du projet "\\194.199.252.251\profils\dechvi14\Bureau\Github\partageable\Composant4\Composant4.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:04.50

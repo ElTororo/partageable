@@ -4,7 +4,6 @@
 
 #include "composant1.h"
 #include "composant2.h"
-#include "composant4.h"
 
 int main(int argc, char * argv)
 {
@@ -14,11 +13,13 @@ int main(int argc, char * argv)
 	int valeur1;
 	int valeur2;
 
-	valeur1 = composant4(data1, data2);
+	valeur1=composant1(data1,data2);
 
 	valeur2=composant2(data1,data2);
 
-	std::cout << getComposant4Version() << std::endl;
+	std::cout << getComposant1Version() << std::endl;
+	
 	std::cout << "valeur 1 :" << valeur1 << " valeur 2 :" << valeur2 << std::endl;
+	Sleep(1000);
 	system("pause");
 }
